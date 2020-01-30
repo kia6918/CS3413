@@ -1,0 +1,4 @@
+User Process Arrival Duration Priority
+Jim A 2 19 3
+Mary B 2 21 3
+Sue C 5 1 1
